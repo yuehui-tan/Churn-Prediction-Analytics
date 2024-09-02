@@ -21,7 +21,10 @@ Machine Learning Models: Logistic Regression, CART, Random Forest, XGBoost.
 ## Recommendations
 Based on our analysis and secondary research, we derived several actionable recommendations to address the churn issue:
 
-Enhance Engagement with Non-Seniors: Focus on tailored engagement strategies for non-senior customers to further boost retention.
-Review Monthly Contracts & Internet Services: Consider revising the monthly contract terms or offering incentives to customers with fiber optic internet to reduce churn.
-Loyalty Programs: Strengthen loyalty programs targeting long-term customers to keep them engaged and satisfied.
-Optimize Payment Methods: Provide alternatives to electronic checks and ensure tech support is readily available to improve customer satisfaction.
+- Enhance Engagement with Non-Seniors: Focus on tailored engagement strategies for non-senior customers to further boost retention.
+- Review Monthly Contracts & Internet Services: Consider revising the monthly contract terms or offering incentives to customers with fiber optic internet to reduce churn.
+- Loyalty Programs: Strengthen loyalty programs targeting long-term customers to keep them engaged and satisfied.
+- Optimize Payment Methods: Provide alternatives to electronic checks and ensure tech support is readily available to improve customer satisfaction.
+
+Conclusion
+This project has provided a comprehensive understanding of the factors influencing customer churn and equipped us with predictive tools to mitigate this issue. The insights and models developed will serve as a foundation for implementing effective retention strategies.
