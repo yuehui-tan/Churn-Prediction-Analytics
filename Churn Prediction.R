@@ -1,5 +1,3 @@
-setwd("C:/Users/tanyu/OneDrive/Desktop/UNI Y2S2/BC2407 Course Materials/Group_ProjectTeam2")
-
 library(data.table)
 library(caTools)
 library(randomForest)
@@ -16,7 +14,7 @@ library(dplyr)
 library(caret)
 
 
-df <- fread("Team2_DataSet.csv", stringsAsFactors = T)
+df <- fread("Churn Prediction Dataset.csv", stringsAsFactors = T)
 View(df)
 summary(df)
 #================= Data Cleaning & EDA ================================================ 
